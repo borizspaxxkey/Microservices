@@ -1,0 +1,1 @@
+﻿Auth0 Scopes are permission level for your api
